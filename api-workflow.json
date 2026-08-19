@@ -1,0 +1,1 @@
+{"2":{"inputs":{"video":["3",0],"filename_prefix":"video/LTX-2.5_t2v","format":"auto","codec":"auto"},"class_type":"SaveVideo","_meta":{"title":"SaveVideo"}},"3":{"inputs":{},"class_type":"LtxApi25TextToVideo","_meta":{"title":"LtxApi25TextToVideo"}}}
